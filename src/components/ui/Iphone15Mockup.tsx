@@ -20,7 +20,7 @@ export function Iphone15Mockup({ src, alt, className }: Iphone15MockupProps) {
                     src={src}
                     alt={alt}
                     fill
-                    className="object-cover"
+                    className="object-contain"
                 />
             </div>
         </div>
