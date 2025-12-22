@@ -29,8 +29,8 @@ export function Navbar() {
                     Drobe AI
                 </Link>
                 <nav className="flex items-center gap-6">
-                    <Link href="/tos" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
-                        Terms of Service
+                    <Link href="/privacy" className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors">
+                        Privacy Policy
                     </Link>
                     <Link
                         href="/contact"

@@ -10,8 +10,8 @@ export function Footer() {
                         &copy; {new Date().getFullYear()} Drobe AI. All rights reserved.
                     </p>
                     <nav className="flex gap-6">
-                        <Link href="/tos" className="text-sm text-muted-foreground hover:text-foreground">
-                            Terms of Service
+                        <Link href="/privacy" className="text-sm text-muted-foreground hover:text-foreground">
+                            Privacy Policy
                         </Link>
                         <Link href="/contact" className="text-sm text-muted-foreground hover:text-foreground">
                             Contact
